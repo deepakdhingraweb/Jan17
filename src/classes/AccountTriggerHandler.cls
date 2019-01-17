@@ -5,6 +5,7 @@ public static void CreateAccounts (List<Account> lstAccounts){
         temp.ShippingState = temp.billingState;
         temp.name = 'Deepak Version';
         temp.name = 'Modified ide';
+         temp.name = 'Modified online';
     }
 }
 
