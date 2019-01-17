@@ -6,7 +6,11 @@ public static void CreateAccounts (List<Account> lstAccounts){
         temp.name = 'Deepak Version';
         temp.name = 'Modified ide';
          temp.name = 'Modified online';
+
          temp.name = 'Addition from feature branch';
+
+         temp.name = 'Addition on master';
+
     }
 }
 
